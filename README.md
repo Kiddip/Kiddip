@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Luca Fuertes
-- 🌱 I’m in my final year of high school. Planning to study computer science in UNI.
+- 🌱 I’m in my first year of studying computer science at university.
 - 📫 You can reach me through this email: 22lucaf@nist.ac.th
